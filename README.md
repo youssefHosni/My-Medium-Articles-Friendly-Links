@@ -7,6 +7,14 @@
 |[]()|[]()       |
 |[]()  |  []()    |
 
+## [Practical Computer Vision In Python]()
+
+|Article |Code|
+|-----|--------|
+|[]()|[]()       |
+|[]()  |  []()    |
+
+
 
 ## [Practical Machine Learning Guide]()
 
@@ -14,6 +22,10 @@
 |-----|--------|
 |[]()|[]()       |
 |[]()  |  []()    |
+
+
+
+
 
 ## [Book Recommendations for Data scientists ]()
 
@@ -23,6 +35,12 @@
 |[]()  |  []()    |
 
 
+## [Short Course To Boost Your Data science Skills]()
+
+|Article |Code|
+|-----|--------|
+|[]()|[]()       |
+|[]()  |  []()    |
 
 
 
