@@ -17,7 +17,7 @@
 |Article |Code|
 |-----|--------|
 |[]()|[]()       |
-|[]()  |  []()    |
+|[Object Tracking with Particle Filters In Python](https://pub.towardsai.net/object-tracking-with-particle-filters-in-python-77a61bb4fd91?sk=a0be61dc1c3609cbc6d7515d306355f3)  |  [](https://github.com/youssefHosni/Practical-Computer-Vision-In-Python/tree/main/Tracking%20Objects%20in%20Video%20with%20Particle%20Filters)    |
 
 
 
