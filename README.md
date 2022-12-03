@@ -16,7 +16,7 @@
 
 |Article |Code|
 |-----|--------|
-|[]()|[]()       |
+|[Overview of Computer Vision Tasks & Applications]()|[]()       |
 |[Object Tracking with Particle Filters In Python](https://pub.towardsai.net/object-tracking-with-particle-filters-in-python-77a61bb4fd91?sk=a0be61dc1c3609cbc6d7515d306355f3)  |  [:octocat:](https://github.com/youssefHosni/Practical-Computer-Vision-In-Python/tree/main/Tracking%20Objects%20in%20Video%20with%20Particle%20Filters)    |
 
 
@@ -37,8 +37,16 @@
 
 |Article |Code|
 |-----|--------|
-|[]()|[]()       |
-|[]()  |  []()    |
+|[Top 12 Business for Data Science Books for Data Scientists]()|[]()    |
+|[5 Non-Technical Books You Should Read As A Tech Worker]()  |  []()    |
+|[5 Top Data Cleaning and Feature Engineering Books For Data Scientists]()  |  []()   |
+|[10 Books To Become a Great Writer and Storyteller]()  |  []()    |
+|[5 Top Practical Computer Vision Books]()  |  []()    |
+|[5 Best Books To Learn Statistics And Probability For Data Scientists]()  |  []()    |
+|[3 Books To Build A Strong Deep Learning Foundation]()  |  []()    |
+|[This Book Will Learn You To Scale Deep Learning Models]()  |  []()    |
+|[The Best Book To Build A Strong Machine Learning Foundation]()  |  []()    |
+
 
 
 ## [Short Course To Boost Your Data science Skills]()
