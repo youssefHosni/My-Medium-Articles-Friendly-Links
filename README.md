@@ -58,7 +58,7 @@
 
 
 
-## [Machine Learning Course from Top Universties]()
+## [AI Course from Top Universties]()
 
 |Article |Code|
 |-----|--------|
