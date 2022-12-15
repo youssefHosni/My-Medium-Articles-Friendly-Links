@@ -35,17 +35,18 @@
 
 ## [Book Recommendations for Data scientists ]()
 
-|Article |Code|
-|-----|--------|
-|[Top 12 Business for Data Science Books for Data Scientists]()|[]()    |
-|[5 Non-Technical Books You Should Read As A Tech Worker]()  |  []()    |
-|[5 Top Data Cleaning and Feature Engineering Books For Data Scientists]()  |  []()   |
-|[10 Books To Become a Great Writer and Storyteller]()  |  []()    |
-|[5 Top Practical Computer Vision Books]()  |  []()    |
-|[5 Best Books To Learn Statistics And Probability For Data Scientists]()  |  []()    |
-|[3 Books To Build A Strong Deep Learning Foundation]()  |  []()    |
-|[This Book Will Learn You To Scale Deep Learning Models]()  |  []()    |
-|[The Best Book To Build A Strong Machine Learning Foundation]()  |  []()    |
+|Article 
+|-----|
+|[Top 12 Practical Data Science Books]() |
+|[Top 12 Business for Data Science Books for Data Scientists]()|
+|[5 Non-Technical Books You Should Read As A Tech Worker]()    
+|[5 Top Data Cleaning and Feature Engineering Books For Data Scientists]()  |  
+|[10 Books To Become a Great Writer and Storyteller]()  |  
+|[5 Top Practical Computer Vision Books]()  |  
+|[5 Best Books To Learn Statistics And Probability For Data Scientists]()  | 
+|[3 Books To Build A Strong Deep Learning Foundation]()  |  
+|[This Book Will Learn You To Scale Deep Learning Models]()  |  
+|[The Best Book To Build A Strong Machine Learning Foundation]()  | 
 
 
 
