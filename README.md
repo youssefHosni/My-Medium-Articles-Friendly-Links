@@ -59,7 +59,7 @@ This repo contains friendly links for my medium blogs
 |[Arima Models in Python 2](https://pub.towardsai.net/time-series-forecasting-with-arima-models-in-python-part-2-91a30d10efb0?sk=cea51b91fd727e84028145ec78b1b94d)  |    [:octocat:](https://github.com/youssefHosni/Time-Series-With-Python/tree/main/Arima%20Models%20in%20Python)    |
 |[Machine Learning for Time Series Data Regression](https://pub.towardsai.net/machine-learning-for-time-series-data-in-python-regression-5e19fa2e7471?sk=ce7584000b36f174069b5c7e3afc0949)  |    [:octocat:](https://github.com/youssefHosni/Time-Series-With-Python/tree/main/Machine%20Learning%20For%20Time%20Series)    |
 
-## [Efficient Python for Data Scientists]()
+## [Efficient Python for Data Scientists](https://youssefraafat57.medium.com/list/efficient-python-for-data-scientists-3bcc4cb04d13)
 
 |Article |Code|
 |-----|--------|
