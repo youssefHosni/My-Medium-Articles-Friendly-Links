@@ -12,11 +12,20 @@
 |[SQL & Database Interview Questions & Answers for Data Scientists](https://youssefraafat57.medium.com/sql-database-interview-questions-answers-67a93a79a564?sk=f621899beae4eb9093942f3d1289ba6d)  |  [:octocat:](https://github.com/youssefHosni/Data-Science-Interview-Questions-Answers/blob/main/SQL%20%26%20DB%20Interview%20Questions%20%26%20Answers%20for%20Data%20Scientists.md)    |
 
 
+## [Stable Diffusion Crash Coruse](https://medium.com/@youssefraafat57/list/stable-diffusion-crash-coruse-d0146c8eeb4e)
+
+|Article |Code|
+|-----|--------|
+|[Getting Started With Stable Diffusion
+](https://pub.towardsai.net/getting-started-with-stable-diffusion-f343639e4931?sk=83d8907e785577ee6cf2696f7c3772b4)|[:octocat:](https://github.com/youssefHosni/Stable-Diffusion-Crash-Course/blob/main/Getting%20Started%20with%20Stable%20Diffusion.ipynb)       |
+|[Stable Diffusion-Based Image Generation Web Application Using Fast API & React
+](https://medium.com/geekculture/stable-diffusion-based-image-generation-web-application-using-fast-api-react-d519078567bf?sk=6c1ef9063210eda30221be1cbe2dc84b)  |  [:octocat:](https://github.com/youssefHosni/Stable-Diffusion-Crash-Course/tree/main/Stable%20Diffusion%20Web%20Application)    |
+
 ## [Practical Computer Vision In Python]()
 
 |Article |Code|
 |-----|--------|
-|[Overview of Computer Vision Tasks & Applications]()|[]()       |
+|[Overview of Computer Vision Tasks & Applications](https://pub.towardsai.net/overview-of-the-computer-vision-tasks-applications-647f63e66e9f?sk=c91f0f20aa48a82fd710744258d82d3d)|[]()       |
 |[Object Tracking with Particle Filters In Python](https://pub.towardsai.net/object-tracking-with-particle-filters-in-python-77a61bb4fd91?sk=a0be61dc1c3609cbc6d7515d306355f3)  |  [:octocat:](https://github.com/youssefHosni/Practical-Computer-Vision-In-Python/tree/main/Tracking%20Objects%20in%20Video%20with%20Particle%20Filters)    |
 
 
@@ -74,11 +83,6 @@
 |[]()|[]()       |
 |[]()  |  []()    |
 
-## [Stable Diffusion]()
 
-|Article |Code|
-|-----|--------|
-|[]()|[]()       |
-|[]()  |  []()    |
 
 
