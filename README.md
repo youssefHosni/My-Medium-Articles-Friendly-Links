@@ -19,7 +19,7 @@
 |[Getting Started With Stable Diffusion](https://pub.towardsai.net/getting-started-with-stable-diffusion-f343639e4931?sk=83d8907e785577ee6cf2696f7c3772b4)|[:octocat:](https://github.com/youssefHosni/Stable-Diffusion-Crash-Course/blob/main/Getting%20Started%20with%20Stable%20Diffusion.ipynb)       |
 |[Stable Diffusion-Based Image Generation Web Application Using Fast API & React](https://medium.com/geekculture/stable-diffusion-based-image-generation-web-application-using-fast-api-react-d519078567bf?sk=6c1ef9063210eda30221be1cbe2dc84b)  |  [:octocat:](https://github.com/youssefHosni/Stable-Diffusion-Crash-Course/tree/main/Stable%20Diffusion%20Web%20Application)    |
 
-## [Practical Computer Vision In Python]()
+## [Practical Computer Vision In Python](https://medium.com/@youssefraafat57/list/practical-computer-vision-series-7a696293c31c)
 
 |Article |Code|
 |-----|--------|
