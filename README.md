@@ -171,7 +171,7 @@ This repo contains friendly links for my medium blogs so you can read them witho
 
 
 
-##[Self Development]()
+## [Self Development]()
 |Article |
 |-----|
 |[]() |
