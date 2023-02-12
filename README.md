@@ -94,14 +94,19 @@ This repo contains friendly links for my medium blogs so you can read them witho
 
 ## [Data Science Skill Based Courses]()
 
-|Article |Code|
-|-----|--------|
-|[]()|[]()       |
-|[]()  |  []()    |
+|Article |
+|-----|
+|[]() |
+|[]() | 
+|[]() | 
+|[]() | 
+|[]() | 
+|[]() | 
+|[]() | 
 
 
 
-## [Learn from Top Universties]()
+## [Learn from Top Universties](https://youssefraafat57.medium.com/list/learn-from-top-universties-d00c3dfd1085)
 
 |Article |
 |-----|
@@ -113,12 +118,47 @@ This repo contains friendly links for my medium blogs so you can read them witho
 
 
 ## [Data Science Roadmaps]()
+|Article |
+|-----|
+|[]() |
+|[]() | 
+|[]() | 
+|[]() | 
+|[]() | 
+|[]() | 
+|[]() | 
 
 ## [Software Engineering for Data Scientists]()
+|Article |
+|-----|
+|[]() |
+|[]() | 
+|[]() | 
+|[]() | 
+|[]() | 
+|[]() | 
+|[]() | 
 
 ## [Data Science & AI Open Positions]()
+|Article |
+|-----|
+|[]() |
+|[]() | 
+|[]() | 
+|[]() | 
+|[]() | 
+|[]() | 
+|[]() | 
 
 ## [Data Science Interview Preperation]()
 
-
+|Article |
+|-----|
+|[]() |
+|[]() | 
+|[]() | 
+|[]() | 
+|[]() | 
+|[]() | 
+|[]() | 
 
