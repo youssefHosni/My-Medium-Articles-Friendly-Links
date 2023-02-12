@@ -47,9 +47,16 @@
 |[Machine Learning Models Are No Longer A Black Box](https://medium.com/mlearning-ai/4-methods-to-unbox-the-machine-learning-models-black-box-8358a8bce3a6?sk=7c3f175a08a3f521b1cc77e9e9e429a3)  |  [:octocat:]() |
 |[Step-by-Step Guide on Deploying Yolo3 Model on Fast API]()  |  [:octocat:]() |
 
+## [Time Series In Python]()
 
-
-
+|Article |Code|
+|-----|--------|
+|[]()|[]()       |
+|[]()  |  []()    |
+|[]()|[]()       |
+|[]()  |  []()    |
+|[]()|[]()       |
+|[]()  |  []()    |
 
 
 ## [Book Recommendations for Data scientists ]()
@@ -84,15 +91,3 @@
 |-----|--------|
 |[]()|[]()       |
 |[]()  |  []()    |
-
-
-## [Time Series In Python]()
-
-|Article |Code|
-|-----|--------|
-|[]()|[]()       |
-|[]()  |  []()    |
-
-
-
-
