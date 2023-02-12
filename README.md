@@ -1,4 +1,5 @@
-# Data-Science-Blog
+# Practical-Data-Science-Blog
+This repo contains friendly links for my medium blogs
 
 ## [Data Science Interview Questions & Answers](https://medium.com/@youssefraafat57/list/data-science-interview-questions-6789a80bdb14)
 
