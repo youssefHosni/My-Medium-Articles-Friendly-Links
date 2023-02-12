@@ -32,8 +32,20 @@
 
 |Article |Code|
 |-----|--------|
-|[]()|  []()       |
-|[]()  |  []()    |
+|[End-to-End Machine Learning Workflow Part 1]()|  []()   |
+|[End-to-End Machine Learning Workflow Part 2]()  |  []() |
+|[How To Split Data Effectively for Your Data Science Project]()|  []()   |
+|[Six Reasons Why Your Model Gives Bad Results]()  |  []() |
+|[Brief Guide for Machine Learning Model Selection]()|  []()   |
+|[Practical Guide to Support Vector Machine in Python]()  |  []() |
+|[Practical Guide to Boosting Algorithms In Machine Learning ]()|  []()   |
+|[Overview of Unsupervised Machine Learning Tasks & Applications]()  |  []() |
+|[Practical Guide to Dimesnioality Reduction in Python]()  |  []() |
+|[Building Complex Models Using Keras Functional API ]()  |  []() |
+|[A Quick Setup for Neural Networks Hyperparameters for Best Results]()  |  []() |
+|[Building A Recurrent Neural Network From Scratch In Python]()  |  []() |
+|[Machine Learning Models Are No Longer A Black Box]()  |  []() |
+|[Step-by-Step Guide on Deploying Yolo3 Model on Fast API]()  |  []() |
 
 
 
