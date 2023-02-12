@@ -162,3 +162,18 @@ This repo contains friendly links for my medium blogs so you can read them witho
 |[]() | 
 |[]() | 
 
+## [Writing]()
+|Article |
+|-----|
+|[]() |
+|[]() | 
+|[]() | 
+
+
+
+##[Self Development]()
+|Article |
+|-----|
+|[]() |
+|[]() | 
+|[]() | 
