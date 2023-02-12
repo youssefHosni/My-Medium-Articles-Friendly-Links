@@ -52,12 +52,12 @@ This repo contains friendly links for my medium blogs
 
 |Article |Code|
 |-----|--------|
-|[Manipulating Time Series Data In Python Pandas ]()  |    [:octocat:]()    |
-|[Time Series Analysis in Python Pandas]()  |    [:octocat:]()    |
-|[Visualizing Time Series Data in Python]()  |    [:octocat:]()    |
-|[Arima Models in Python Part 1]()  |    [:octocat:]()    |
-|[Arima Models in Python 2]()  |    [:octocat:]()    |
-|[Machine Learning for Time Series Data Regression]()  |    [:octocat:]()    |
+|[Manipulating Time Series Data In Python Pandas ](https://pub.towardsai.net/manipulating-time-series-data-in-python-49aed42685a0?sk=0ac080cfda46f8f4cc7c8074215454a0)  |    [:octocat:](https://github.com/youssefHosni/Time-Series-With-Python/tree/main/Time%20Series%20Manipulation)    |
+|[Time Series Analysis in Python Pandas](https://pub.towardsai.net/time-series-data-analysis-in-python-1492ee4ca974?sk=2c007eb2446bb7fde226fc7ef94ca33c)  |    [:octocat:](https://github.com/youssefHosni/Time-Series-With-Python/tree/main/Time%20Series%20Analysis)    |
+|[Visualizing Time Series Data in Python](https://pub.towardsai.net/time-series-data-visualization-in-python-2b1959726312?sk=c27b3e78f49cc89d9126b4095f3b6429)  |    [:octocat:](https://github.com/youssefHosni/Time-Series-With-Python/tree/main/Time%20Series%20Data%20Visualization)    |
+|[Arima Models in Python Part 1](https://pub.towardsai.net/time-series-forecasting-with-arima-models-in-python-part-1-c2940a7dbc48?sk=2915b621d50d04c5783c735f3b09fadd)  |    [:octocat:](https://github.com/youssefHosni/Time-Series-With-Python/tree/main/Arima%20Models%20in%20Python)    |
+|[Arima Models in Python 2](https://pub.towardsai.net/time-series-forecasting-with-arima-models-in-python-part-2-91a30d10efb0?sk=cea51b91fd727e84028145ec78b1b94d)  |    [:octocat:](https://github.com/youssefHosni/Time-Series-With-Python/tree/main/Arima%20Models%20in%20Python)    |
+|[Machine Learning for Time Series Data Regression](https://pub.towardsai.net/machine-learning-for-time-series-data-in-python-regression-5e19fa2e7471?sk=ce7584000b36f174069b5c7e3afc0949)  |    [:octocat:](https://github.com/youssefHosni/Time-Series-With-Python/tree/main/Machine%20Learning%20For%20Time%20Series)    |
 
 ## [Efficient Python for Data Scientists]()
 
