@@ -101,9 +101,20 @@ This repo contains friendly links for my medium blogs so you can read them witho
 
 
 
-## [AI Course from Top Universties]()
+## [Learn from Top Universties]()
 
 |Article |Code|
 |-----|--------|
-|[]()|[]()       |
-|[]()  |  []()    |
+|[Build Strong Deep Learning Foundations By Learning From Top Universities](https://pub.towardsai.net/build-strong-deep-learning-foundations-by-learning-from-top-universities-a7f8680a98da?sk=221e2caafa6c9493c95859af30d25c03)|   |
+|[]()|   |
+|[]()|   |
+|[]()|   |
+|[]()|   |
+|[]()|   |
+|[]()|   |
+
+## [Data Science Roadmaps]()
+
+
+## [Software Engineering for Data Scientists] ()
+
