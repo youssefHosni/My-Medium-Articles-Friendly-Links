@@ -69,6 +69,9 @@ This repo contains friendly links for my medium blogs
 |[]()  |    []()    |
 |[]()  |    []()    |
 |[]()  |    []()    |
+|[]()  |    []()    |
+|[]()  |    []()    |
+|[]()  |    []()    |
 
 
 ## [Book Recommendations for Data scientists ]()
