@@ -48,16 +48,27 @@ This repo contains friendly links for my medium blogs
 |[Machine Learning Models Are No Longer A Black Box](https://medium.com/mlearning-ai/4-methods-to-unbox-the-machine-learning-models-black-box-8358a8bce3a6?sk=7c3f175a08a3f521b1cc77e9e9e429a3)  |  [:octocat:]() |
 |[Step-by-Step Guide on Deploying Yolo3 Model on Fast API]()  |  [:octocat:]() |
 
-## [Time Series In Python]()
+## [Time Series In Python](https://youssefraafat57.medium.com/list/time-series-in-python-a152db6b5b2c)
 
 |Article |Code|
 |-----|--------|
-|[]()|[]()       |
-|[]()  |  []()    |
-|[]()|[]()       |
-|[]()  |  []()    |
-|[]()|[]()       |
-|[]()  |  []()    |
+|[Manipulating Time Series Data In Python Pandas ]()  |    [:octocat:]()    |
+|[Time Series Analysis in Python Pandas]()  |    [:octocat:]()    |
+|[Visualizing Time Series Data in Python]()  |    [:octocat:]()    |
+|[Arima Models in Python Part 1]()  |    [:octocat:]()    |
+|[Arima Models in Python 2]()  |    [:octocat:]()    |
+|[Machine Learning for Time Series Data Regression]()  |    [:octocat:]()    |
+
+## [Efficient Python for Data Scientists]()
+
+|Article |Code|
+|-----|--------|
+|[]()  |    []()    |
+|[]()  |    []()    |
+|[]()  |    []()    |
+|[]()  |    []()    |
+|[]()  |    []()    |
+|[]()  |    []()    |
 
 
 ## [Book Recommendations for Data scientists ]()
