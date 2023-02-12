@@ -29,7 +29,7 @@ This repo contains friendly links for my medium blogs
 
 
 
-## [Practical Machine Learning Guide]()
+## [Practical Machine Learning Guide](https://medium.com/@youssefraafat57/list/practical-machine-learning-deep-learning-guide-5127d6688c63)
 
 |Article |Code|
 |-----|--------|
@@ -63,16 +63,17 @@ This repo contains friendly links for my medium blogs
 
 |Article |Code|
 |-----|--------|
-|[]()  |    []()    |
-|[]()  |    []()    |
-|[]()  |    []()    |
-|[]()  |    []()    |
-|[]()  |    []()    |
-|[]()  |    []()    |
-|[]()  |    []()    |
-|[]()  |    []()    |
-|[]()  |    []()    |
-
+|[How To Write Python Clean Code](https://levelup.gitconnected.com/learn-how-to-write-python-clean-code-using-these-3-principles-ed046978e39a)  |    []()    |
+|[Write Efficient Python Code: Defining & Measuring Code Efficiency](https://medium.com/geekculture/write-efficient-python-code-defining-measuring-code-efficiency-e33a5bd9f7ca?sk=39ca91a495d591e785427aa870081c68)  |    []()    |
+|[Write Efficient Python Code: Optimizing Your Code](https://levelup.gitconnected.com/write-efficient-python-code-for-data-scientists-optimizing-your-code-2dbb717f610e)  |    []()    |
+|[How To Eliminate Loops From Your Python Code](https://levelup.gitconnected.com/how-to-eliminate-loops-from-your-python-code-6dfb7c3578fa?sk=c7fc6bb617dd2e07dd20410ad7ff96e9)  |    []()    |
+|[Best Practices To Use Pandas Efficiently As A Data Scientist](https://levelup.gitconnected.com/best-practices-to-use-pandas-efficiently-as-a-data-scientist-9198b3e7bb6d?sk=88e07bfb5fba1b3a208a1e7e01a5981c)  |    []()    |
+|[Stop Looping Through Pandas DataFrames & Do This Instead](https://levelup.gitconnected.com/stop-looping-through-pandas-dataframes-do-this-instead-ddcb6009cbc1?sk=a81ea280c77aeb28afdbdacbef380c43)  |    []()    |
+|[Selecting & Replacing Values In Pandas DataFrame Effectively](https://levelup.gitconnected.com/selecting-replacing-values-in-pandas-dataframe-effectively-69c5cee9f526?sk=1abbd5bff836d0ddb445fd5c8bf6ea74)  |    []()    |
+|[How To Use .groupby() Effectively For Data Transformation As A Data Scientist](https://levelup.gitconnected.com/how-to-use-groupby-effectively-as-a-data-scientist-9e1d931e1619?sk=569f074940cf15c63837bd2dae0b714b)  |    []()    |
+|[20 Pandas Functions for 80% of your Data Science Tasks](https://levelup.gitconnected.com/20-pandas-functions-for-80-of-your-data-science-tasks-b610c8bfe63c?sk=3f73cdb37d52db86caaa0e7d52852c64)  |    []()    |
+|[Data Exploration Becomes Easier & Better With Pandas Profiling](https://levelup.gitconnected.com/data-exploration-becomes-easier-better-with-pandas-profiling-2d527a612bef?sk=e052c35b0a34de49b18a28526513f754)  |    []()    |
+|[Make Your Pandas Code 1000 Times Faster With This Trick](https://levelup.gitconnected.com/make-your-pandas-code-1000-times-faster-with-this-trick-5b3a1438598a?sk=8d2d6cd70914e6e509ae6f6ab0791212)  |    []()    |
 
 ## [Book Recommendations for Data scientists ]()
 
