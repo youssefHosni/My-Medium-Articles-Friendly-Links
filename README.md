@@ -103,24 +103,22 @@ This repo contains friendly links for my medium blogs so you can read them witho
 
 ## [Learn from Top Universties]()
 
-|Article |Code|
-|-----|--------|
-|[Build Strong Deep Learning Foundations By Learning From Top Universities](https://pub.towardsai.net/build-strong-deep-learning-foundations-by-learning-from-top-universities-a7f8680a98da?sk=221e2caafa6c9493c95859af30d25c03)|   |
-|[Learn Reinforcement Learning from Top Universities](https://pub.towardsai.net/learn-reinforcement-learning-from-top-universities-54f4fb1eab57?sk=66dd6ad02a49de4ef493c6a5519fe5ec)|   |
-|[6 Top University Courses to Learn Mathematics for Machine Learning & Data Science](https://medium.com/geekculture/6-top-university-courses-to-learn-mathematics-for-machine-learning-data-science-869fbd43f7e?sk=ed4f2afd89766644ae16a66953f948da)|     |
-|[Learn Computer Vision From Top Universities](https://medium.com/mlearning-ai/learn-computer-vision-from-top-universities-bb6019be74d2?sk=81c21fb4024bb933e01c24b000660dc0)|   |
-|[Learn AI from Top Universities Through these 10 Courses
-](https://pub.towardsai.net/learn-ai-from-top-universities-through-these-10-courses-13e7a8d3957b?sk=5049a7e5344b2281fb115001fa632f1c)|   |
+|Article |
+|-----|
+|[Build Strong Deep Learning Foundations By Learning From Top Universities](https://pub.towardsai.net/build-strong-deep-learning-foundations-by-learning-from-top-universities-a7f8680a98da?sk=221e2caafa6c9493c95859af30d25c03)|   
+|[Learn Reinforcement Learning from Top Universities](https://pub.towardsai.net/learn-reinforcement-learning-from-top-universities-54f4fb1eab57?sk=66dd6ad02a49de4ef493c6a5519fe5ec)|   
+|[6 Top University Courses to Learn Mathematics for Machine Learning & Data Science](https://medium.com/geekculture/6-top-university-courses-to-learn-mathematics-for-machine-learning-data-science-869fbd43f7e?sk=ed4f2afd89766644ae16a66953f948da)| 
+|[Learn Computer Vision From Top Universities](https://medium.com/mlearning-ai/learn-computer-vision-from-top-universities-bb6019be74d2?sk=81c21fb4024bb933e01c24b000660dc0)|   
+|[Learn AI from Top Universities Through these 10 Courses](https://pub.towardsai.net/learn-ai-from-top-universities-through-these-10-courses-13e7a8d3957b?sk=5049a7e5344b2281fb115001fa632f1c)|   
 
 
 ## [Data Science Roadmaps]()
 
-
-## [Software Engineering for Data Scientists] ()
+## [Software Engineering for Data Scientists]()
 
 ## [Data Science & AI Open Positions]()
 
-## [Data Science Interview Preperation]
+## [Data Science Interview Preperation]()
 
 
 
