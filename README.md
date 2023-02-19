@@ -81,7 +81,7 @@ This repo contains friendly links for my [medium blogs](https://medium.com/@yous
 |[How to Read Machine Learning Papers Effectively](https://pub.towardsai.net/how-to-read-machine-learning-papers-effectively-9c2df7906516?sk=fac7196610ac7e09013be927ed7bf7c6)|
 
 
-## [Book Recommendations for Data scientists ]()
+## [Book Recommendations for Data Scientists ]()
 
 |Article 
 |-----|
@@ -98,8 +98,7 @@ This repo contains friendly links for my [medium blogs](https://medium.com/@yous
 
 
 
-
-## [Data Science Skill Based Courses]()
+## [Data Science Skill-Based Courses]()
 
 |Article |
 |-----|
@@ -113,7 +112,7 @@ This repo contains friendly links for my [medium blogs](https://medium.com/@yous
 
 
 
-## [Learn from Top Universties](https://youssefraafat57.medium.com/list/learn-from-top-universties-d00c3dfd1085)
+## [Learn from Top Universities](https://youssefraafat57.medium.com/list/learn-from-top-universties-d00c3dfd1085)
 
 |Article |
 |-----|
@@ -157,7 +156,7 @@ This repo contains friendly links for my [medium blogs](https://medium.com/@yous
 |[]() | 
 |[]() | 
 
-## [Data Science Interview Preperation]()
+## [Data Science Interview Preparation]()
 
 |Article |
 |-----|
@@ -169,7 +168,7 @@ This repo contains friendly links for my [medium blogs](https://medium.com/@yous
 |[]() | 
 |[]() | 
 
-## [Techanical Writing]()
+## [Technical Writing Tips]()
 |Article |
 |-----|
 |[]() |
