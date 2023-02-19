@@ -1,5 +1,5 @@
 # Practical-Data-Science-Blog
-This repo contains friendly links for my medium blogs so you can read them without restirections. Also you can find them categorized with the codes so you can read more about the topics you are intersted in.
+This repo contains friendly links for my [medium blogs](https://medium.com/@youssefraafat57) so you can read them without restirections. Also you can find them categorized with the codes so you can read more about the topics you are intersted in.
 
 ## [Data Science Interview Questions & Answers](https://medium.com/@youssefraafat57/list/data-science-interview-questions-6789a80bdb14)
 
@@ -75,6 +75,12 @@ This repo contains friendly links for my medium blogs so you can read them witho
 |[Data Exploration Becomes Easier & Better With Pandas Profiling](https://levelup.gitconnected.com/data-exploration-becomes-easier-better-with-pandas-profiling-2d527a612bef?sk=e052c35b0a34de49b18a28526513f754)  |    [:octocat:](https://github.com/youssefHosni/Efficient-Python-for-Data-Scientists/blob/main/Data%20Exploration%20Becomes%20Easier%20%26%20Better%20With%20Pandas%20Profiling.md)    |
 |[Make Your Pandas Code 1000 Times Faster With This Trick](https://levelup.gitconnected.com/make-your-pandas-code-1000-times-faster-with-this-trick-5b3a1438598a?sk=8d2d6cd70914e6e509ae6f6ab0791212)  |    [:octocat:](https://github.com/youssefHosni/Efficient-Python-for-Data-Scientists/blob/main/Make_Your_Pandas_Code_1000_Times_Faster_With_This%C2%A0Trick.ipynb)    |
 
+## [Machine Learning Research](https://youssefraafat57.medium.com/list/machine-learning-research-94cc992c93a6)
+|Article 
+|-----|
+|[How to Read Machine Learning Papers Effectively](https://pub.towardsai.net/how-to-read-machine-learning-papers-effectively-9c2df7906516?sk=fac7196610ac7e09013be927ed7bf7c6)|
+
+
 ## [Book Recommendations for Data scientists ]()
 
 |Article 
@@ -89,6 +95,7 @@ This repo contains friendly links for my medium blogs so you can read them witho
 |[3 Books To Build A Strong Deep Learning Foundation]()  |  
 |[This Book Will Learn You To Scale Deep Learning Models]()  |  
 |[The Best Book To Build A Strong Machine Learning Foundation]()  | 
+
 
 
 
