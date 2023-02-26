@@ -125,7 +125,7 @@ This repo contains friendly links for my [medium blogs](https://medium.com/@yous
 |[Learn AI from Top Universities Through these 10 Courses](https://pub.towardsai.net/learn-ai-from-top-universities-through-these-10-courses-13e7a8d3957b?sk=5049a7e5344b2281fb115001fa632f1c)|   
 
 
-## [Data Science Roadmaps]()
+## [Data Science Roadmaps](https://medium.com/@youssefraafat57/list/roadmaps-12683cf0eac2)
 |Article |
 |-----|
 |[]() |
