@@ -87,16 +87,19 @@ This repo contains friendly links for my [medium blogs](https://medium.com/@yous
 
 |Article 
 |-----|
-|[Top 12 Practical Data Science Books]() |
-|[Top 12 Business for Data Science Books for Data Scientists]()|
-|[5 Non-Technical Books You Should Read As A Tech Worker]()    
-|[5 Top Data Cleaning and Feature Engineering Books For Data Scientists]()  |  
-|[10 Books To Become a Great Writer and Storyteller]()  |  
-|[5 Top Practical Computer Vision Books]()  |  
-|[5 Best Books To Learn Statistics And Probability For Data Scientists]()  | 
-|[3 Books To Build A Strong Deep Learning Foundation]()  |  
-|[This Book Will Learn You To Scale Deep Learning Models]()  |  
-|[The Best Book To Build A Strong Machine Learning Foundation]()  | 
+|[Data Science Roadmap through Books](https://medium.com/geekculture/unlock-your-data-science-potential-a-comprehensive-roadmap-to-mastery-through-books-9cb3bcad36d2?sk=f908138c80e615dfb1f077fb76d5ecc2)|
+|[Top 12 Business for Data Science Books for Data Scientists](https://lnkd.in/dwuB2T4V)|
+|[5 Top Data Cleaning and Feature Engineering Books For Data Scientists](https://lnkd.in/dbmFsvyk)|
+|[5 Best Books To Learn Statistics And Probability For Data Scientists](https://lnkd.in/dAQ_6EpZ)|
+|[The Best Book To Build A Strong Machine Learning Foundation](https://lnkd.in/deKmTGE4)|
+|[5 Best Books to Learn Machine Learning For Data Scientists](https://lnkd.in/dRgsCPUb)|
+|[3 Books To Build A Strong Deep Learning Foundation](https://lnkd.in/decAunJ4)|
+|[5 Top Practical Computer Vision Books](https://lnkd.in/dtJka8dq)|
+|[Top 10 Theoretical & Practical Computer Vision Books](https://lnkd.in/dFQGD4dT)|
+|[10 Top MlOps Books for Data Scientists](https://lnkd.in/dE5GYU-x)|
+|[Top 12 Practical Data Science Books](https://lnkd.in/dci6g57W)|
+
+
 
 
 
