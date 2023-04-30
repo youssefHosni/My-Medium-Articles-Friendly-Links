@@ -235,15 +235,20 @@ This repo contains friendly links for my [medium blogs](https://medium.com/@yous
 ## [Technical Writing Tips]()
 |Article |
 |-----|
-|[]() |
-|[]() | 
-|[]() | 
+|[After 4 Months with ChatGPT: Tips and Tricks for Maximizing Your Writing Results on Medium](https://medium.com/geekculture/after-4-months-with-chatgpt-tips-and-tricks-for-maximizing-your-writing-results-on-medium-9930f6c21f09?sk=38280acaed400e8742fe0d1b078d3c7f) |
+|[10 Websites Will Pay 300 $ for Your Technical Blog](https://medium.com/geekculture/10-websites-will-pay-300-for-your-technical-blog-646a50342460?sk=ac5357cdfbb4f33baa902a1605f69933) | 
+|[The Writing Strategy that Made Me 1200 $ on Medium in January 2023 Writing about Data Science](https://medium.com/illumination/the-writing-strategy-that-made-me-1200-on-medium-in-january-2023-writing-about-data-science-7a3f2a932823?sk=faca615b85d401c57ffb9aadf46c99af) | 
+|[10 Books To Become a Great Writer and Storyteller](https://medium.com/illumination/10-books-to-become-a-great-writer-and-storyteller-77edd48e5cbc?sk=581002b46dccbf4fd1205cf75d0fad92)|
+|[How Much Medium Paid Me For 34,000 Views And 6500 Reads](https://medium.com/illumination/how-much-medium-paid-me-for-34-000-views-and-6500-reads-3b2a04de03b0?sk=f85c5168f30a579db3e72b01b4bca8e8)|
 
 
 
 ## [Self Development]()
 |Article |
 |-----|
-|[]() |
-|[]() | 
-|[]() | 
+|[5 Essential Personal Skills for Building A Successful Data Science & AI Career](https://medium.com/geekculture/5-essential-personal-skills-for-building-a-successful-data-science-ai-career-e2fafa1b27af?sk=10cbbb18a2c999cb35fffc2e4614aba6) |
+|[5 Tips To Avoid Imposter Syndrome in Your AI & Data Science Career](https://medium.com/geekculture/5-tips-to-avoid-imposter-syndrome-in-your-ai-data-science-career-d091c4a674e7?sk=d53ebe570e608740de9bbf48810ad073) | 
+|[Data Science 101: The Top 5 Mistakes to Avoid for a Successful Career Path](https://medium.com/geekculture/data-science-101-the-top-5-mistakes-to-avoid-for-a-successful-career-path-9cd1d5184461?sk=2b6875ca9c60b9c04ce5a9e905287d68) | 
+|[5 Reasons I Love & Enjoy Working As A Data Scientist](https://medium.com/geekculture/5-reasons-i-love-enjoy-working-as-a-data-scientist-eadab776714e?sk=461cd589e3916b52e00b560ebe8c6f4f) |
+|[5 Non-Technical Books You Should Read As A Tech Worker](https://medium.com/geekculture/5-self-help-books-you-should-read-as-a-tech-worker-402a7201fbf0?sk=84cc20f63e064b6f349ec6896e3f4e32)|
+|[]()|
