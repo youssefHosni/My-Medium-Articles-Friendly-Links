@@ -100,20 +100,15 @@ This repo contains friendly links for my [medium blogs](https://medium.com/@yous
 |[Top 12 Practical Data Science Books](https://lnkd.in/dci6g57W)|
 
 
-
-
-
 ## [Data Science Skill-Based Courses]()
 
 |Article |
 |-----|
-|[]() |
-|[]() | 
-|[]() | 
-|[]() | 
-|[]() | 
-|[]() | 
-|[]() | 
+|[Overview of data science hiring process](https://medium.com/geekculture/overview-of-the-data-science-hiring-process-454230b434ff?sk=fec5823ad78a4af2b7a06a787b4ac60d) |
+|[3 Resources to Get & Pass Your First Data Science Interview](https://medium.com/geekculture/3-resources-to-get-pass-your-first-data-science-interview-6c81045bfe60?sk=6fc787b3e59c7a6adbf6740c1bf31bd2) | 
+| [How to Build a Data Science Resume That Gets You Interviews?](https://medium.com/geekculture/how-to-build-a-standing-out-resume-that-gets-you-data-science-interviews-a6f2972f4d92?sk=509be71fda26e025bd7f1b97b000011f)|
+| [Crafting the Perfect Data Science Resume: 10 Common Mistakes to Steer Clear of](https://medium.com/geekculture/crafting-the-perfect-data-science-resume-10-common-mistakes-to-steer-clear-of-9c85cc0fe562?sk=0931c73cff1a4836566a0a0b2c60d7f7)|
+| [How I Got 15 More Data Science Interviews in One Month?](https://medium.com/geekculture/i-got-15-more-data-science-interviews-with-these-5-tips-87ed03fdcfc7?sk=58484d64c38ee391c3586319b751aa9a)|
 
 
 
