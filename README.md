@@ -162,13 +162,13 @@ This repo contains friendly links for my [medium blogs](https://medium.com/@yous
 |-----|
 |[You should Review These Topics Before Data Science Technical Interview](https://medium.com/geekculture/you-should-review-these-topics-before-data-science-technical-interview-fed456b60aea)|
 
-#### Machine Learning Questions ####
+#### Machine Learning Techanical Interivew ####
 |Article |
 |-----|
 |[Crack the Machine Learning Coding Questions](https://medium.com/geekculture/crack-the-machine-learning-coding-questions-ac8ecc2af90f?sk=581daa1b5f145f524812c8e586b8763b)|
 |[Types of Machine Learning Questions In A Data Science Interview & How To Prepare for Them](https://medium.com/geekculture/types-of-machine-learning-questions-in-a-data-science-interview-how-to-prepare-for-them-1bc815c9421?sk=e4a4c49105668ee56f47c86f6fde1437)|
 
-#### SQL Questions ####
+#### SQL Coding Interview ####
 |Article |
 |-----|
 |[13 SQL Statements for 90% of Your Data Science Tasks](https://levelup.gitconnected.com/13-sql-statements-for-90-of-your-data-science-tasks-27902996dc2b?sk=8955868e62f09f1510d5e09f22dcd506)|
@@ -192,13 +192,11 @@ This repo contains friendly links for my [medium blogs](https://medium.com/@yous
 ## [Data Science Roadmaps](https://medium.com/@youssefraafat57/list/roadmaps-12683cf0eac2)
 |Article |
 |-----|
-|[]() |
-|[]() | 
-|[]() | 
-|[]() | 
-|[]() | 
-|[]() | 
-|[]() | 
+|[Kickstart Your Data Science Career with this Comprehensive and Easy-to-Follow Roadmap](https://pub.towardsai.net/simple-but-effective-free-roadmap-to-start-a-career-in-data-science-ai-in-2023-9d17c76a184b?sk=65e910a94a98f5405c67f34495726e7d)| 
+|[Software Engineering Roadmap For Data Scientists](https://levelup.gitconnected.com/software-engineering-roadmap-for-data-scientists-1b0fd154de51?sk=d4e9dbb2ad9949a5f7d4bfac558ce2ef) | 
+|[SQL Mastery for Data Scientists: A Comprehensive Guide from Novice to Advanced](https://levelup.gitconnected.com/sql-mastery-for-data-scientists-a-comprehensive-guide-from-novice-to-advanced-3b9305b03210?sk=4569f6e829186ba31ce80b072f20f224) |
+|[Ultimate MLOps Learning Roadmap with Free Learning Resources In 2023](https://pub.towardsai.net/ultimate-mlops-learning-roadmap-with-free-learning-resources-in-2023-3ba7664cb1e9?sk=d22f3f812c6fbffa878ea5cd6bc3990b) | 
+
 
 ## [Software Engineering for Data Scientists]()
 |Article |
