@@ -101,6 +101,18 @@ This repo contains friendly links for my [medium blogs](https://medium.com/@yous
 
 
 ## [Data Science Skill-Based Courses]()
+|Article |
+|-----|
+|[]() |
+|[]() | 
+|[]() | 
+|[]() | 
+|[]() | 
+|[]() | 
+|[]() | 
+
+
+## [Data Science Interview Preparation]()
 
 |Article |
 |-----|
@@ -109,6 +121,26 @@ This repo contains friendly links for my [medium blogs](https://medium.com/@yous
 | [How to Build a Data Science Resume That Gets You Interviews?](https://medium.com/geekculture/how-to-build-a-standing-out-resume-that-gets-you-data-science-interviews-a6f2972f4d92?sk=509be71fda26e025bd7f1b97b000011f)|
 | [Crafting the Perfect Data Science Resume: 10 Common Mistakes to Steer Clear of](https://medium.com/geekculture/crafting-the-perfect-data-science-resume-10-common-mistakes-to-steer-clear-of-9c85cc0fe562?sk=0931c73cff1a4836566a0a0b2c60d7f7)|
 | [How I Got 15 More Data Science Interviews in One Month?](https://medium.com/geekculture/i-got-15-more-data-science-interviews-with-these-5-tips-87ed03fdcfc7?sk=58484d64c38ee391c3586319b751aa9a)|
+| [The Importance of Having a Portfolio As a Data Scientist](https://pub.towardsai.net/the-importance-of-having-a-portfolio-as-a-data-scientist-94c0ef53be5e?sk=1c52a6cef0061c126db498cd3a6ec9f6)|
+| [Want to Stand Out in Data Science? Don’t Make These Portfolio Mistakes!](https://pub.towardsai.net/want-to-stand-out-in-data-science-dont-make-these-portfolio-mistakes-f568b5174842?sk=a837f7b0626a9ca2f664f60077f7fc7b)|
+| [How To Build A Data Science Portfolio That Will Land You A Job?](https://pub.towardsai.net/how-to-build-a-data-science-portfolio-that-will-land-you-a-job-b2120d8f2dc5?sk=96f0409a6ca33674b79933ea651fe16c)|
+| [Hiring Manager Tips To Land Your First Data Science Job](https://medium.com/geekculture/hiring-manager-tips-to-land-your-first-data-science-job-506dbe1b0f78?sk=00fe520939fe4d841b80135defdf8738)|
+| [Guided Projects: The Ultimate Way to Learn Data Science](https://medium.com/mlearning-ai/guided-projects-the-ultimate-way-to-learn-data-science-4478f3365045?sk=a52c778862cee81befa82e03722e5084)|
+| [10 End-to-End Guided Data Science Projects to Build Your Portfolio](https://pub.towardsai.net/10-end-to-end-guided-data-science-projects-to-build-your-portfolio-b7b9047fe6c9?sk=57b9ac02177d606a51cc22f43a817f5b)|
+| [Master Computer Vision and Boost Your Portfolio with These 10 End-to-End Projects](https://medium.com/geekculture/master-computer-vision-and-boost-your-portfolio-with-these-10-end-to-end-projects-537fcd20db7c?sk=75d35d8c0554b4ba010814d65fa16e59)|
+| [Build Impressive Data Science Projects: 10 Websites with Open Datasets to Build Your Portfolio](https://pub.towardsai.net/build-impressive-data-science-projects-10-websites-with-open-datasets-to-build-your-portfolio-af0ff55b4d1a?sk=beb30e6ab3fb2976e7184831404a31fe)|
+| [Three Methods To Get Internal Referrals For Data Science Positions](https://medium.com/geekculture/three-graduated-methods-to-get-internal-referrals-for-data-science-positions-901a9c940ea3?sk=871542454d9ba4e9f4f6d61bca5eb77f)|
+| [Cracking the Data Science Behavioral Interview [Full Guide]](https://medium.com/geekculture/cracking-the-data-science-behavioral-interview-full-guide-6d3e6e5727ca?sk=1468955888d003dd71a145e26409f365)|
+| [What To Expect In A Data Science Behavioral Interview](https://medium.com/geekculture/what-to-expect-in-a-data-science-behavioral-interview-b08ea422664b?sk=7ab6fc07abd14e2c2229ae1a1bcd2132)|
+| [How To Introduce Yourself In A Data Science Behavioral Interview](https://medium.com/geekculture/how-to-introduce-yourself-in-a-data-science-behavioral-interview-39c9b88f8aae?sk=0207cef1dca1932fa7f2f7b19b100798)|
+| [How To Present Past Projects In A Data Science Behavioral Interview](https://medium.com/geekculture/how-to-present-past-projects-in-a-data-science-behavioral-interview-6c783a299ae6?sk=550f8f3284df6e7a241503eb58d72ab3)|
+| [What To Ask At The End of A Data Science Behavioral Interview?](https://medium.com/geekculture/what-to-ask-at-the-end-of-a-data-science-behavioral-interview-4bfe84e8b0f7?sk=07eb3e0da56b9d41cccb256c75bd7a43)|
+| [Avoid These 3 Mistakes In Data Science Behavioral Interviews](https://medium.com/geekculture/avoid-these-3-mistakes-in-data-science-behavioral-interviews-bd7df699d8eb?sk=5db1167baef4ef7d969077500eaf2d71)|
+| [Top 50+ Behavioral Data Science Interview Questions](https://medium.com/geekculture/top-50-behavioral-data-science-interview-questions-a038787ec7bf?sk=9c3f5aff6ec2312b8da0651cf90e6920)|
+|[You should Review These Topics Before Data Science Technical Interview](https://medium.com/geekculture/you-should-review-these-topics-before-data-science-technical-interview-fed456b60aea)|
+
+
+
 
 
 
