@@ -80,6 +80,7 @@ This repo contains friendly links for my [medium blogs](https://medium.com/@yous
 ## [Machine Learning Research](https://youssefraafat57.medium.com/list/machine-learning-research-94cc992c93a6)
 |Article 
 |-----|
+|[March 2023’s Breakthroughs in Computer Vision: A Selection of Top Papers](https://youssefraafat57.medium.com/march-2023s-breakthroughs-in-computer-vision-a-selection-of-top-papers-fccb42c26d3a?sk=dccafb2bf6729012a101e017957fa78b)|
 |[How to Read Machine Learning Papers Effectively](https://pub.towardsai.net/how-to-read-machine-learning-papers-effectively-9c2df7906516?sk=fac7196610ac7e09013be927ed7bf7c6)|
 |[What Does It Mean To Be a Ph.D Student?](https://medium.com/geekculture/what-does-it-mean-to-be-a-phd-student-668423add24b?sk=81dd5cd6609414c74c8273cbac0d6984)|
 
@@ -104,13 +105,14 @@ This repo contains friendly links for my [medium blogs](https://medium.com/@yous
 ## [Data Science Skill-Based Courses]()
 |Article |
 |-----|
+|[5 Short Courses to Advance Your SQL Skills]()|
+|[Five Courses to Master Data Cleaning & Feature Engineering]() | 
+|[5 Short Courses to Advance Your Pandas Skills]() | 
+|[5 Short Courses Master Deploying Models Into Production]() | 
+|[]() | 
+|[]() | 
+|[]() | 
 |[5 Short Practical Data Science Courses]() |
-|[]() | 
-|[]() | 
-|[]() | 
-|[]() | 
-|[]() | 
-|[]() | 
 
 
 ## [Data Science Interview Preparation]()
