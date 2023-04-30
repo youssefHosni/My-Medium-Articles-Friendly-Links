@@ -81,6 +81,7 @@ This repo contains friendly links for my [medium blogs](https://medium.com/@yous
 |Article 
 |-----|
 |[How to Read Machine Learning Papers Effectively](https://pub.towardsai.net/how-to-read-machine-learning-papers-effectively-9c2df7906516?sk=fac7196610ac7e09013be927ed7bf7c6)|
+|[What Does It Mean To Be a Ph.D Student?](https://medium.com/geekculture/what-does-it-mean-to-be-a-phd-student-668423add24b?sk=81dd5cd6609414c74c8273cbac0d6984)|
 
 
 ## [Book Recommendations for Data Scientists ]()
@@ -214,11 +215,16 @@ This repo contains friendly links for my [medium blogs](https://medium.com/@yous
 |-----|
 |[Open Positions in AI For the Week 10/10 to 16/10](https://youssefraafat57.medium.com/open-positions-in-ai-for-the-week-10-10-to-16-10-25014d800c8a?sk=74c3e3179d7af00d2e143672e2218d39) |
 |[Open Positions in AI For the Week 3/10 to 9/10](https://youssefraafat57.medium.com/open-positions-in-ai-for-the-week-3-10-to-9-10-ded1255c6de8?sk=a5e3d8423edb1f0f519ea7c08c252ff0) | 
-|[]() | 
-|[]() | 
-|[]() | 
-|[]() | 
-|[]() | 
+|[Open Positions in AI For the Week 26/9 to 2/10](https://medium.com/mlearning-ai/open-positions-in-ai-for-the-week-26-9-to-2-10-375af2a6e909?sk=3869d391ac238f0f7b997a3c2c91f377) | 
+|[Open Positions in AI For the Week 19/9 to 25/9](https://medium.com/mlearning-ai/open-positions-in-ai-for-the-week-13-9-to-25-9-2cd7f134aeb7?sk=85af5aabf010b97b9f2db53400ae44b8) | 
+|[Open Positions in AI For the Week 19/9 to 25/9](https://medium.com/mlearning-ai/open-positions-in-ai-for-the-week-13-9-to-25-9-2cd7f134aeb7?sk=85af5aabf010b97b9f2db53400ae44b8) | 
+|[Open Positions in AI For The Week 12/9 to 18/9](https://medium.com/mlearning-ai/open-positions-in-ai-for-the-week-12-9-to-18-9-e5ae6a855bb1?sk=9a589370c6d4f50ef39fe8df6ad93e30) | 
+|[Open Positions in AI For The Week 8/8 to 14/8](https://youssefraafat57.medium.com/open-positions-in-ai-for-the-week-8-8-to-14-8-9b408738ffb6?sk=0cc52cea1af904d0009f5bc862031961) | 
+|[Open Positions in AI For The Week 1/8 to 7/8](https://youssefraafat57.medium.com/open-positions-in-ai-for-the-week-1-8-to-7-8-34915b87303a?sk=ade7eaf2dcea4028a802c5fc0c140c45)|
+|[Open Positions in AI For The Week 25/7 to 31/7](https://youssefraafat57.medium.com/open-positions-in-ai-for-the-week-25-7-to-31-7-67d63556e995?sk=908f42911efe68c89ccb14e2704c25d0)|
+|[Open Positions in AI For The Week 11/7 to 17/7](https://youssefraafat57.medium.com/open-positions-in-ai-for-the-week-11-7-to-17-7-7f441157a698?sk=3d1c320415c19229d119cc7554eb8ec9)|
+|[Open Positions in AI For The Week 4/7 to 10/7](https://youssefraafat57.medium.com/open-positions-in-ai-for-the-week-4-7-to-10-7-4baf6811f7b4?sk=eed8796f5b3bdf83c89c55252c738cfa)|
+|[Open Positions in AI For The Week 27/6 to 3/7](https://youssefraafat57.medium.com/open-positions-in-ai-for-the-week-27-6-to-3-7-ba417f898bb9?sk=cf0c8d35a5259c431e68d30a63a5cfff)|
 
 ## [Technical Writing Tips]()
 |Article |
