@@ -206,8 +206,8 @@ This repo contains friendly links for my [medium blogs](https://medium.com/@yous
 ## [Software Engineering for Data Scientists]()
 |Article |
 |-----|
-|[]() |
-|[]() | 
+|[Unlocking the Power of Containerization: Why Data Scientists Need to Learn Dockers and Kubernetes?](https://levelup.gitconnected.com/unlocking-the-power-of-containerization-why-data-scientists-need-to-learn-dockers-and-kubernetes-b112456c62fc?sk=ba4af837ac3197713195131e1583697a) |
+|[Software Engineering Skills Data Scientists Should Know](https://levelup.gitconnected.com/software-engineering-skills-data-scientists-should-know-710278670326?sk=1785e7f248b36193b47e2ce0d91f6784) | 
 |[]() | 
 |[]() | 
 |[]() | 
