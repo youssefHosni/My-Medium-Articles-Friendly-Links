@@ -212,20 +212,8 @@ This repo contains friendly links for my [medium blogs](https://medium.com/@yous
 ## [Data Science & AI Open Positions]()
 |Article |
 |-----|
-|[]() |
-|[]() | 
-|[]() | 
-|[]() | 
-|[]() | 
-|[]() | 
-|[]() | 
-
-## [Data Science Interview Preparation]()
-
-|Article |
-|-----|
-|[]() |
-|[]() | 
+|[Open Positions in AI For the Week 10/10 to 16/10](https://youssefraafat57.medium.com/open-positions-in-ai-for-the-week-10-10-to-16-10-25014d800c8a?sk=74c3e3179d7af00d2e143672e2218d39) |
+|[Open Positions in AI For the Week 3/10 to 9/10](https://youssefraafat57.medium.com/open-positions-in-ai-for-the-week-3-10-to-9-10-ded1255c6de8?sk=a5e3d8423edb1f0f519ea7c08c252ff0) | 
 |[]() | 
 |[]() | 
 |[]() | 
@@ -240,7 +228,8 @@ This repo contains friendly links for my [medium blogs](https://medium.com/@yous
 |[The Writing Strategy that Made Me 1200 $ on Medium in January 2023 Writing about Data Science](https://medium.com/illumination/the-writing-strategy-that-made-me-1200-on-medium-in-january-2023-writing-about-data-science-7a3f2a932823?sk=faca615b85d401c57ffb9aadf46c99af) | 
 |[10 Books To Become a Great Writer and Storyteller](https://medium.com/illumination/10-books-to-become-a-great-writer-and-storyteller-77edd48e5cbc?sk=581002b46dccbf4fd1205cf75d0fad92)|
 |[How Much Medium Paid Me For 34,000 Views And 6500 Reads](https://medium.com/illumination/how-much-medium-paid-me-for-34-000-views-and-6500-reads-3b2a04de03b0?sk=f85c5168f30a579db3e72b01b4bca8e8)|
-
+|[13 Top Tools To Write More With Higher Quality](https://medium.com/swlh/13-tools-to-write-more-with-higher-quality-a87a913c57ec?sk=e68aec800f5f410c96ef33440e702c5b)|
+|[8 Websites Will Pay 50$ to 1000$ For Your Data Science Blog](https://medium.com/geekculture/8-websites-will-pay-50-to-1000-for-your-data-science-blog-f094d0616555?sk=df49715e8b772c1f4c3e24755499097e)|
 
 
 ## [Self Development]()
@@ -251,4 +240,5 @@ This repo contains friendly links for my [medium blogs](https://medium.com/@yous
 |[Data Science 101: The Top 5 Mistakes to Avoid for a Successful Career Path](https://medium.com/geekculture/data-science-101-the-top-5-mistakes-to-avoid-for-a-successful-career-path-9cd1d5184461?sk=2b6875ca9c60b9c04ce5a9e905287d68) | 
 |[5 Reasons I Love & Enjoy Working As A Data Scientist](https://medium.com/geekculture/5-reasons-i-love-enjoy-working-as-a-data-scientist-eadab776714e?sk=461cd589e3916b52e00b560ebe8c6f4f) |
 |[5 Non-Technical Books You Should Read As A Tech Worker](https://medium.com/geekculture/5-self-help-books-you-should-read-as-a-tech-worker-402a7201fbf0?sk=84cc20f63e064b6f349ec6896e3f4e32)|
-|[]()|
+|[7 Hacks to Stay Productive In Today’s Distracted World](https://youssefraafat57.medium.com/7-hacks-to-stay-productive-in-todays-distracted-world-19d42ef0c381?sk=25fb3c83e2065062094828d547181ea1)|
+|[6 Ways You Can Make Money While Learning Data Science](https://medium.com/geekculture/6-ways-you-can-make-money-while-learning-data-science-9933f9f5bcf1?sk=af4841595e01aaca5dd496db4140046b)|
