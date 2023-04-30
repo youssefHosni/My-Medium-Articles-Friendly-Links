@@ -104,7 +104,7 @@ This repo contains friendly links for my [medium blogs](https://medium.com/@yous
 ## [Data Science Skill-Based Courses]()
 |Article |
 |-----|
-|[]() |
+|[5 Short Practical Data Science Courses]() |
 |[]() | 
 |[]() | 
 |[]() | 
