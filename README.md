@@ -105,14 +105,16 @@ This repo contains friendly links for my [medium blogs](https://medium.com/@yous
 ## [Data Science Skill-Based Courses]()
 |Article |
 |-----|
-|[5 Short Courses to Advance Your SQL Skills]()|
-|[Five Courses to Master Data Cleaning & Feature Engineering]() | 
-|[5 Short Courses to Advance Your Pandas Skills]() | 
-|[5 Short Courses Master Deploying Models Into Production]() | 
-|[]() | 
-|[]() | 
-|[]() | 
-|[5 Short Practical Data Science Courses]() |
+|[5 Short Courses to Advance Your SQL Skills](https://medium.com/mlearning-ai/5-short-courses-to-boost-your-data-science-skills-part-5-8b4ca987417f?sk=32d672b1e4155bf1be3b8b36032d8d08)|
+|[Five Courses to Master Data Cleaning & Feature Engineering](https://medium.com/geekculture/five-courses-to-master-data-cleaning-feature-engineering-b3ac8f86800a?sk=09935097209cead86c3cab1c78770d09) | 
+|[5 Short Courses to Advance Your Pandas Skills](https://medium.com/mlearning-ai/5-short-courses-to-boost-your-data-science-skills-part-4-86e1fb916767?sk=76b29d3caca41d4490084a9cacac1e0d) | 
+|[5 Short Courses Master Deploying Models Into Production](https://medium.com/mlearning-ai/5-short-courses-to-boost-your-data-science-skills-part-7-436ab0cad5?sk=f770e8ed6baa4c4a58bbef7c8abda3e0) | 
+|[5 Short Courses to Learn Scripting For Data Science](https://medium.com/mlearning-ai/5-short-courses-to-boost-your-data-science-skills-part-3-8dca8c7d5de8?sk=bd04821d01afbcb030e36d41d9f03ba2) | 
+|[5 Short Courses to Learn Software Engineering Skills for Data Scientists](https://medium.com/mlearning-ai/5-short-courses-to-boost-your-data-science-skills-part-2-6e54cd4645ca?sk=57a729274a8f894a7fbe6ad82dd46e90) | 
+|[5 Short Courses to Learn Data Ethics & Literacy](https://medium.com/mlearning-ai/5-short-courses-to-boost-your-data-science-skills-part-6-f699cbd01f16?sk=f2a806bd14337e7b71409347b4a634b0) | 
+|[5 Short Practical Data Science Courses](https://medium.com/mlearning-ai/5-short-courses-to-boost-your-data-science-skills-part-1-2f2c4fe2e17a?sk=31b6da7f0721b1a79d3a8f10f472abab) |
+
+
 
 
 ## [Data Science Interview Preparation]()
