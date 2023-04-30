@@ -114,7 +114,7 @@ This repo contains friendly links for my [medium blogs](https://medium.com/@yous
 
 ## [Data Science Interview Preparation]()
 
-### Data Science Hiring Process ###
+#### Data Science Hiring Process ####
 
 |Article |
 |-----|
@@ -145,7 +145,7 @@ This repo contains friendly links for my [medium blogs](https://medium.com/@yous
 |-----|
 | [Three Methods To Get Internal Referrals For Data Science Positions](https://medium.com/geekculture/three-graduated-methods-to-get-internal-referrals-for-data-science-positions-901a9c940ea3?sk=871542454d9ba4e9f4f6d61bca5eb77f)|
 
-### Behavioral Interview Preparation ###
+#### Behavioral Interview Preparation ####
 |Article |
 |-----|
 | [Cracking the Data Science Behavioral Interview [Full Guide]](https://medium.com/geekculture/cracking-the-data-science-behavioral-interview-full-guide-6d3e6e5727ca?sk=1468955888d003dd71a145e26409f365)|
@@ -157,18 +157,18 @@ This repo contains friendly links for my [medium blogs](https://medium.com/@yous
 | [Top 50+ Behavioral Data Science Interview Questions](https://medium.com/geekculture/top-50-behavioral-data-science-interview-questions-a038787ec7bf?sk=9c3f5aff6ec2312b8da0651cf90e6920)|
 |[You should Review These Topics Before Data Science Technical Interview](https://medium.com/geekculture/you-should-review-these-topics-before-data-science-technical-interview-fed456b60aea)|
 
-### Techanical Interview Preparation  ###
+#### Techanical Interview Preparation  ####
 |Article |
 |-----|
 |[You should Review These Topics Before Data Science Technical Interview](https://medium.com/geekculture/you-should-review-these-topics-before-data-science-technical-interview-fed456b60aea)|
 
-### Machine Learning Questions ###
+#### Machine Learning Questions ####
 |Article |
 |-----|
 |[Crack the Machine Learning Coding Questions](https://medium.com/geekculture/crack-the-machine-learning-coding-questions-ac8ecc2af90f?sk=581daa1b5f145f524812c8e586b8763b)|
 |[Types of Machine Learning Questions In A Data Science Interview & How To Prepare for Them](https://medium.com/geekculture/types-of-machine-learning-questions-in-a-data-science-interview-how-to-prepare-for-them-1bc815c9421?sk=e4a4c49105668ee56f47c86f6fde1437)|
 
-### SQL Questions ###
+#### SQL Questions ####
 |Article |
 |-----|
 |[13 SQL Statements for 90% of Your Data Science Tasks](https://levelup.gitconnected.com/13-sql-statements-for-90-of-your-data-science-tasks-27902996dc2b?sk=8955868e62f09f1510d5e09f22dcd506)|
@@ -176,10 +176,6 @@ This repo contains friendly links for my [medium blogs](https://medium.com/@yous
 |[Unlocking the Power of SQL: How to Ace Top N Problem Questions in Interviews](https://medium.com/geekculture/unlocking-the-power-of-sql-how-to-ace-top-n-problem-questions-in-interviews-cf525901228a?sk=2c5e9481903e0c6aff8f78cfc2c8d2af)|
 |[How To Ace the SQL Ratio Problems In Data Science Interviews](https://medium.com/geekculture/how-to-ace-the-sql-ratio-problems-in-data-science-interviews-c95395acf038?sk=b6356e4b98cd8504952f404752d11ea4)|
 |[6 Free Resources For SQL Interview Preparation](https://medium.com/geekculture/6-free-resources-for-sql-interview-preparation-b184195b28fb?sk=4cc8bf913607ca699ef0872ca1f38558)|
-
-
-
-
 
 
 ## [Learn from Top Universities](https://youssefraafat57.medium.com/list/learn-from-top-universties-d00c3dfd1085)
