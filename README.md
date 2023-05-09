@@ -201,7 +201,8 @@ This repo contains friendly links for my [medium blogs](https://medium.com/@yous
 |[Software Engineering Roadmap For Data Scientists](https://levelup.gitconnected.com/software-engineering-roadmap-for-data-scientists-1b0fd154de51?sk=d4e9dbb2ad9949a5f7d4bfac558ce2ef) | 
 |[SQL Mastery for Data Scientists: A Comprehensive Guide from Novice to Advanced](https://levelup.gitconnected.com/sql-mastery-for-data-scientists-a-comprehensive-guide-from-novice-to-advanced-3b9305b03210?sk=4569f6e829186ba31ce80b072f20f224) |
 |[Ultimate MLOps Learning Roadmap with Free Learning Resources In 2023](https://pub.towardsai.net/ultimate-mlops-learning-roadmap-with-free-learning-resources-in-2023-3ba7664cb1e9?sk=d22f3f812c6fbffa878ea5cd6bc3990b) | 
-
+|[From Novice to Expert: A Comprehensive Step-by-Step Study Plan for Mastering LLMs[[Comming Soon!]]]()|
+|[Navigating the World of Computer Vision: A Step-by-Step Roadmap [Comming Soon!]]()|
 
 ## [Software Engineering for Data Scientists]()
 |Article |
