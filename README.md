@@ -16,6 +16,8 @@ This repo contains friendly links for my [medium blogs](https://medium.com/@yous
 |[Top Large Language Models (LLMs) Interview Questions & Answers](https://levelup.gitconnected.com/top-large-language-models-llms-interview-questions-answers-d7b83f94c4e?sk=ba9875db71eb42aa0c5fa717f2dd7bd0) |  |
 
 ## LLM Applications ##
+
+|Article |Code|
 |-----|--------|
 |[Automating YouTube Script Writing with LangChain and Streamlit: A Step-by-Step Guide](https://levelup.gitconnected.com/automating-youtube-script-writing-with-langchain-and-streamlit-a-step-by-step-guide-9786ebaec6be?sk=f7f93f7cfbd3e59b8b079f444c2fd483)|[:octocat:](https://github.com/youssefHosni/Data-Science-End-to-End-Projects/tree/main/Youtube%20Script%20Writing%20Assistant%20Application%20Using%20LangChain%20%26%20Streamlit)|
 |[Building a PDF-Chat App using LangChain, OpenAI API & Streamlit](https://levelup.gitconnected.com/building-a-pdf-chat-app-using-langchain-openai-api-streamlit-3d95c27bda0?sk=82c044014cc61cd1eef25753778ff267)|[:octocat:](https://github.com/youssefHosni/Chat-with-Pdf?source=post_page-----3d95c27bda0--------------------------------)|
@@ -32,6 +34,7 @@ This repo contains friendly links for my [medium blogs](https://medium.com/@yous
 
 
 ## Introduction to Generative AI ##
+|Article |
 |-----|
 |[Introduction to Generative AI: What It Is & Main Applications](https://medium.com/mlearning-ai/introduction-to-generative-ai-what-it-is-main-applications-9ddf9e9dc88f?sk=1c608870e625b87edd6820a42d55c7b5)|
 |[What Are Large Language Models?](https://pub.towardsai.net/what-are-large-language-models-2da95a3d7023?sk=a10b5d5808b3f25ed0ab06921043e8b3)|
@@ -104,7 +107,6 @@ This repo contains friendly links for my [medium blogs](https://medium.com/@yous
 
 
 ## [Book Recommendations for Data Scientists ]()
-
 |Article 
 |-----|
 |[Data Science Roadmap through Books](https://medium.com/geekculture/unlock-your-data-science-potential-a-comprehensive-roadmap-to-mastery-through-books-9cb3bcad36d2?sk=f908138c80e615dfb1f077fb76d5ecc2)|
@@ -132,7 +134,17 @@ This repo contains friendly links for my [medium blogs](https://medium.com/@yous
 |[5 Short Courses to Learn Data Ethics & Literacy](https://medium.com/mlearning-ai/5-short-courses-to-boost-your-data-science-skills-part-6-f699cbd01f16?sk=f2a806bd14337e7b71409347b4a634b0) | 
 |[5 Short Practical Data Science Courses](https://medium.com/mlearning-ai/5-short-courses-to-boost-your-data-science-skills-part-1-2f2c4fe2e17a?sk=31b6da7f0721b1a79d3a8f10f472abab) |
 
-
+## [Data Science Educational Resoruces]()
+|Article |
+|-----|
+|[Top 10 Large Language Models GitHub Repository](https://levelup.gitconnected.com/top-10-large-language-models-github-repository-50ec95b5a7af?sk=68aac6bcbd2a8e8ea3f7933c6fc3ef1b)|
+|[Top Data Analysis YouTube Channel In 2023](https://levelup.gitconnected.com/top-data-analysis-youtube-channel-in-2023-55a33affe631?sk=c468f6444c1f66a50ce3b2aa17619f35)|
+|[Top 12 Computer Vision GitHub Repositories](https://pub.towardsai.net/top-12-computer-vision-github-repositories-320464cf3e13?sk=ab2f18a7462e1f87b99375d36f3bddc5)|
+|[Top 10 GitHub Repository to Learn Data Science](https://levelup.gitconnected.com/top-10-github-repository-to-learn-data-science-892935bcebdb?sk=0b0ec3841fc4a8a71644f4639188326e)|
+|[Ten Free Online Courses for Ph.D. Students & Researchers](https://pub.towardsai.net/ten-free-online-courses-for-ph-d-students-researchers-161d8e5b18c6?sk=1fddc43b183f4361ad09868a6c264595)|
+|[Top Resources to Learn & Understand RLHF](https://levelup.gitconnected.com/top-resources-to-learn-understand-rlhf-69f7984f1e58?sk=79d44cc8a12394a958545096643bc583)|
+|[Top 40 Twitter Accounts For The Latest In Machine Learning Research](https://levelup.gitconnected.com/top-40-twitter-accounts-for-the-latest-in-machine-learning-research-19bb9a9d9f7?sk=7a60faa01f4ee9737c08bfd0bc0f88d1)|
+|[The Ultimate Collection of MLOps GitHub Repositories](https://levelup.gitconnected.com/the-ultimate-collection-of-mlops-github-repositories-836a72c8b7d3?sk=82e48b61f86664299c41dd7983058500)|
 
 
 ## [Data Science Interview Preparation]()
@@ -226,9 +238,6 @@ This repo contains friendly links for my [medium blogs](https://medium.com/@yous
 
 
 
-
-
-
 ## [Software Engineering for Data Scientists]()
 |Article |
 |-----|
@@ -237,6 +246,7 @@ This repo contains friendly links for my [medium blogs](https://medium.com/@yous
 |[Docker for Data Science Projects: A Beginner-Friendly Introduction](https://levelup.gitconnected.com/docker-for-data-science-projects-a-beginner-friendly-introduction-58e523ebbacb?sk=abcba8cacc763e91f33c575e785aa2f4) | 
 |[Industry-Wide Best Practices For Using Docker for Data Science](https://levelup.gitconnected.com/industry-wide-best-practices-for-using-docker-for-data-science-beec81137b00?sk=8db1508ee9a1d64ce5b4cb0cdd810ad1) | 
 |[10 Docker Commands for 90% of Conteraization Tasks](https://levelup.gitconnected.com/mastering-docker-10-essential-commands-for-effective-container-management-65442ef64ad3?sk=09606bfac3a410d89c72ff4a45382cd7) | 
+|[Unlocking the Power of Containerization: Why Data Scientists Need to Learn Dockers and Kubernetes?](https://levelup.gitconnected.com/unlocking-the-power-of-containerization-why-data-scientists-need-to-learn-dockers-and-kubernetes-b112456c62fc?sk=ba4af837ac3197713195131e1583697a)|
 
 ## [Data Science & AI Open Positions]()
 |Article |
