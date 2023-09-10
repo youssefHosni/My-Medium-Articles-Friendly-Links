@@ -29,6 +29,7 @@ This repo contains friendly links for my [medium blogs](https://medium.com/@yous
 |-----|--------|
 |[Overview of Computer Vision Tasks & Applications](https://pub.towardsai.net/overview-of-the-computer-vision-tasks-applications-647f63e66e9f?sk=c91f0f20aa48a82fd710744258d82d3d)|[]()       |
 |[Object Tracking with Particle Filters In Python](https://pub.towardsai.net/object-tracking-with-particle-filters-in-python-77a61bb4fd91?sk=a0be61dc1c3609cbc6d7515d306355f3)  |  [:octocat:](https://github.com/youssefHosni/Practical-Computer-Vision-In-Python/tree/main/Tracking%20Objects%20in%20Video%20with%20Particle%20Filters)    |
+|[Overview of Object Detection Evaluation Metrics](https://pub.towardsai.net/overview-of-object-detection-evaluation-metrics-1bf9ec9edb14?sk=2542f48315fd13bbd41abbcfcb3b3f0e)||
 
 
 
@@ -245,6 +246,8 @@ This repo contains friendly links for my [medium blogs](https://medium.com/@yous
 |[How Much Medium Paid Me For 34,000 Views And 6500 Reads](https://medium.com/illumination/how-much-medium-paid-me-for-34-000-views-and-6500-reads-3b2a04de03b0?sk=f85c5168f30a579db3e72b01b4bca8e8)|
 |[13 Top Tools To Write More With Higher Quality](https://medium.com/swlh/13-tools-to-write-more-with-higher-quality-a87a913c57ec?sk=e68aec800f5f410c96ef33440e702c5b)|
 |[8 Websites Will Pay 50$ to 1000$ For Your Data Science Blog](https://medium.com/geekculture/8-websites-will-pay-50-to-1000-for-your-data-science-blog-f094d0616555?sk=df49715e8b772c1f4c3e24755499097e)|
+|[How Do I Use Technical Blogging to Grow on Seven Data Science Platforms?](https://levelup.gitconnected.com/how-do-i-use-technical-blogging-to-grow-on-seven-data-science-platforms-bf771a6b3897?sk=e978bb7a506463ddb681829c9d4805d2)|
+
 
 
 ## [Self Development]()
