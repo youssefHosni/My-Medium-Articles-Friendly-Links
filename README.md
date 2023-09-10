@@ -130,7 +130,7 @@ This repo contains friendly links for my [medium blogs](https://medium.com/@yous
 |[Overview of data science hiring process](https://medium.com/geekculture/overview-of-the-data-science-hiring-process-454230b434ff?sk=fec5823ad78a4af2b7a06a787b4ac60d) |
 |[3 Resources to Get & Pass Your First Data Science Interview](https://medium.com/geekculture/3-resources-to-get-pass-your-first-data-science-interview-6c81045bfe60?sk=6fc787b3e59c7a6adbf6740c1bf31bd2) | 
 
-#### Writing Standing out Resume ####
+#### Writing Standing Out Resume ####
 |Article |
 |-----|
 | [How to Build a Data Science Resume That Gets You Interviews?](https://medium.com/geekculture/how-to-build-a-standing-out-resume-that-gets-you-data-science-interviews-a6f2972f4d92?sk=509be71fda26e025bd7f1b97b000011f)|
@@ -166,12 +166,12 @@ This repo contains friendly links for my [medium blogs](https://medium.com/@yous
 | [Top 50+ Behavioral Data Science Interview Questions](https://medium.com/geekculture/top-50-behavioral-data-science-interview-questions-a038787ec7bf?sk=9c3f5aff6ec2312b8da0651cf90e6920)|
 |[You should Review These Topics Before Data Science Technical Interview](https://medium.com/geekculture/you-should-review-these-topics-before-data-science-technical-interview-fed456b60aea)|
 
-#### Techanical Interview Preparation  ####
+#### Technical Interview Preparation  ####
 |Article |
 |-----|
 |[You should Review These Topics Before Data Science Technical Interview](https://medium.com/geekculture/you-should-review-these-topics-before-data-science-technical-interview-fed456b60aea)|
 
-#### Machine Learning Techanical Interivew ####
+#### Machine Learning Technical Interview ####
 |Article |
 |-----|
 |[Crack the Machine Learning Coding Questions](https://medium.com/geekculture/crack-the-machine-learning-coding-questions-ac8ecc2af90f?sk=581daa1b5f145f524812c8e586b8763b)|
@@ -206,19 +206,23 @@ This repo contains friendly links for my [medium blogs](https://medium.com/@yous
 |[Software Engineering Roadmap For Data Scientists](https://levelup.gitconnected.com/software-engineering-roadmap-for-data-scientists-1b0fd154de51?sk=d4e9dbb2ad9949a5f7d4bfac558ce2ef) | 
 |[SQL Mastery for Data Scientists: A Comprehensive Guide from Novice to Advanced](https://levelup.gitconnected.com/sql-mastery-for-data-scientists-a-comprehensive-guide-from-novice-to-advanced-3b9305b03210?sk=4569f6e829186ba31ce80b072f20f224) |
 |[Ultimate MLOps Learning Roadmap with Free Learning Resources In 2023](https://pub.towardsai.net/ultimate-mlops-learning-roadmap-with-free-learning-resources-in-2023-3ba7664cb1e9?sk=d22f3f812c6fbffa878ea5cd6bc3990b) | 
-|[From Novice to Expert: A Comprehensive Step-by-Step Study Plan for Mastering LLMs [Comming Soon!] ]()|
-|[Navigating the World of Computer Vision: A Step-by-Step Roadmap [Comming Soon!] ]()|
+|[From Novice to Expert: A Comprehensive Step-by-Step Study Plan for Mastering LLMs](https://pub.towardsai.net/from-novice-to-expert-a-comprehensive-step-by-step-study-plan-for-mastering-llms-dc9feb60ecc4?sk=26b9ecdd113ce144fe9596eddedfa2c1)|
+|[Navigating the World of Computer Vision: A Step-by-Step Roadmap](https://levelup.gitconnected.com/a-comprehensive-computer-vision-free-study-roadmap-for-2023-3e95a6d656e7?sk=f10f9e99b5efb90a48bdc69573e581e2)|
+|[Comprehensive Data Analytics Roadmap for 2023 With Free Resources](https://levelup.gitconnected.com/comprehensive-data-analytics-roadmap-for-2023-with-free-resources-adfefc0d0d7f?sk=aa7002668042fdde255f1858ecbd7669)|
+
+
+
+
+
 
 ## [Software Engineering for Data Scientists]()
 |Article |
 |-----|
 |[Unlocking the Power of Containerization: Why Data Scientists Need to Learn Dockers and Kubernetes?](https://levelup.gitconnected.com/unlocking-the-power-of-containerization-why-data-scientists-need-to-learn-dockers-and-kubernetes-b112456c62fc?sk=ba4af837ac3197713195131e1583697a) |
 |[Software Engineering Skills Data Scientists Should Know](https://levelup.gitconnected.com/software-engineering-skills-data-scientists-should-know-710278670326?sk=1785e7f248b36193b47e2ce0d91f6784) | 
-|[]() | 
-|[]() | 
-|[]() | 
-|[]() | 
-|[]() | 
+|[Docker for Data Science Projects: A Beginner-Friendly Introduction](https://levelup.gitconnected.com/docker-for-data-science-projects-a-beginner-friendly-introduction-58e523ebbacb?sk=abcba8cacc763e91f33c575e785aa2f4) | 
+|[Industry-Wide Best Practices For Using Docker for Data Science](https://levelup.gitconnected.com/industry-wide-best-practices-for-using-docker-for-data-science-beec81137b00?sk=8db1508ee9a1d64ce5b4cb0cdd810ad1) | 
+|[10 Docker Commands for 90% of Conteraization Tasks](https://levelup.gitconnected.com/mastering-docker-10-essential-commands-for-effective-container-management-65442ef64ad3?sk=09606bfac3a410d89c72ff4a45382cd7) | 
 
 ## [Data Science & AI Open Positions]()
 |Article |
