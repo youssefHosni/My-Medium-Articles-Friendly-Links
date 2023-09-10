@@ -19,6 +19,8 @@ This repo contains friendly links for my [medium blogs](https://medium.com/@yous
 |-----|--------|
 |[Automating YouTube Script Writing with LangChain and Streamlit: A Step-by-Step Guide](https://levelup.gitconnected.com/automating-youtube-script-writing-with-langchain-and-streamlit-a-step-by-step-guide-9786ebaec6be?sk=f7f93f7cfbd3e59b8b079f444c2fd483)|[:octocat:](https://github.com/youssefHosni/Data-Science-End-to-End-Projects/tree/main/Youtube%20Script%20Writing%20Assistant%20Application%20Using%20LangChain%20%26%20Streamlit)|
 |[Building a PDF-Chat App using LangChain, OpenAI API & Streamlit](https://levelup.gitconnected.com/building-a-pdf-chat-app-using-langchain-openai-api-streamlit-3d95c27bda0?sk=82c044014cc61cd1eef25753778ff267)|[:octocat:](https://github.com/youssefHosni/Chat-with-Pdf?source=post_page-----3d95c27bda0--------------------------------)|
+|[5 Challenges Come with Building LLM-Based Applications](https://levelup.gitconnected.com/5-challenges-come-with-building-llm-based-applications-5fbf8bca1a66?sk=bf23ad172f6b6b32b545a440380b02a9)||
+|[Vector Database: The Secret Behind Large Language Models Capabilities](https://levelup.gitconnected.com/vector-database-the-secret-behind-large-language-models-capabilities-7d4f6b714d16?sk=64c8c1b742d7a83523bb1781ee4ebf5e)||
 
 
 ## [Stable Diffusion Crash Coruse](https://medium.com/@youssefraafat57/list/stable-diffusion-crash-coruse-d0146c8eeb4e)
@@ -26,7 +28,14 @@ This repo contains friendly links for my [medium blogs](https://medium.com/@yous
 |Article |Code|
 |-----|--------|
 |[Getting Started With Stable Diffusion](https://pub.towardsai.net/getting-started-with-stable-diffusion-f343639e4931?sk=83d8907e785577ee6cf2696f7c3772b4)|[:octocat:](https://github.com/youssefHosni/Stable-Diffusion-Crash-Course/blob/main/Getting%20Started%20with%20Stable%20Diffusion.ipynb)       |
-|[Stable Diffusion-Based Image Generation Web Application Using Fast API & React](https://medium.com/geekculture/stable-diffusion-based-image-generation-web-application-using-fast-api-react-d519078567bf?sk=6c1ef9063210eda30221be1cbe2dc84b)  |  [:octocat:](https://github.com/youssefHosni/Stable-Diffusion-Crash-Course/tree/main/Stable%20Diffusion%20Web%20Application)    |
+|[Stable Diffusion-Based Image Generation Web Application Using Fast API & React](https://medium.com/geekculture/stable-diffusion-based-image-generation-web-application-using-fast-api-react-d519078567bf?sk=6c1ef9063210eda30221be1cbe2dc84b)  |  [:octocat:](https://github.com/youssefHosni/Stable-Diffusion-Crash-Course/tree/main/Stable%20Diffusion%20Web%20Application)  |
+
+
+## Introduction to Generative AI ##
+|-----|
+|[Introduction to Generative AI: What It Is & Main Applications](https://medium.com/mlearning-ai/introduction-to-generative-ai-what-it-is-main-applications-9ddf9e9dc88f?sk=1c608870e625b87edd6820a42d55c7b5)|
+|[What Are Large Language Models?](https://pub.towardsai.net/what-are-large-language-models-2da95a3d7023?sk=a10b5d5808b3f25ed0ab06921043e8b3)|
+
 
 ## [Practical Computer Vision In Python](https://medium.com/@youssefraafat57/list/practical-computer-vision-series-7a696293c31c)
 
