@@ -15,6 +15,11 @@ This repo contains friendly links for my [medium blogs](https://medium.com/@yous
 |[SQL & Database Interview Questions & Answers for Data Scientists](https://youssefraafat57.medium.com/sql-database-interview-questions-answers-67a93a79a564?sk=f621899beae4eb9093942f3d1289ba6d)  |  [:octocat:](https://github.com/youssefHosni/Data-Science-Interview-Questions-Answers/blob/main/SQL%20%26%20DB%20Interview%20Questions%20%26%20Answers%20for%20Data%20Scientists.md)    |
 |[Top Large Language Models (LLMs) Interview Questions & Answers](https://levelup.gitconnected.com/top-large-language-models-llms-interview-questions-answers-d7b83f94c4e?sk=ba9875db71eb42aa0c5fa717f2dd7bd0) |  |
 
+## LLM Applications ##
+|-----|--------|
+|[Automating YouTube Script Writing with LangChain and Streamlit: A Step-by-Step Guide](https://levelup.gitconnected.com/automating-youtube-script-writing-with-langchain-and-streamlit-a-step-by-step-guide-9786ebaec6be?sk=f7f93f7cfbd3e59b8b079f444c2fd483)|[:octocat:](https://github.com/youssefHosni/Data-Science-End-to-End-Projects/tree/main/Youtube%20Script%20Writing%20Assistant%20Application%20Using%20LangChain%20%26%20Streamlit)|
+|[Building a PDF-Chat App using LangChain, OpenAI API & Streamlit](https://levelup.gitconnected.com/building-a-pdf-chat-app-using-langchain-openai-api-streamlit-3d95c27bda0?sk=82c044014cc61cd1eef25753778ff267)|[:octocat:](https://github.com/youssefHosni/Chat-with-Pdf?source=post_page-----3d95c27bda0--------------------------------)|
+
 
 ## [Stable Diffusion Crash Coruse](https://medium.com/@youssefraafat57/list/stable-diffusion-crash-coruse-d0146c8eeb4e)
 
