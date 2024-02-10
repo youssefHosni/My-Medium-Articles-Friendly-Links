@@ -28,7 +28,15 @@ This repo contains friendly links for my [medium blogs](https://medium.com/@yous
 
 |Article |Code|
 |-----|--------|
-|[Hands-On LangChain for LLMs App: Answering Questions From Documents](https://medium.com/gitconnected/hands-on-langchain-for-llms-app-answering-questions-from-documents-01f6741ec7d4?sk=7a1dcfae9fce5aea23313a9a3cf9f64c) | [:octocat:](https://github.com/youssefHosni/Data-Science-End-to-End-Projects/tree/main/Youtube%20Script%20Writing%20Assistant%20Application%20Using%20LangChain%20%26%20Streamlit)|
+
+|[Hands-On LangChain for LLM Applications Development: Documents Loading](https://open.substack.com/pub/youssefh/p/hands-on-langchain-for-llm-applications?r=1sqbmi&utm_campaign=post&utm_medium=web) | [:octocat:]()|
+|[Hands-On LangChain for LLM Applications Development: Documents Splitting Part 1](https://open.substack.com/pub/youssefh/p/hands-on-langchain-for-llm-applications-2d6?r=1sqbmi&utm_campaign=post&utm_medium=web) | [:octocat:]()|
+|[Hands-On LangChain for LLM Applications Development: Documents Splitting Part 2](https://open.substack.com/pub/youssefh/p/hands-on-langchain-for-llm-applications-96e?r=1sqbmi&utm_campaign=post&utm_medium=web) | [:octocat:]()|
+|[Hands-On LangChain for LLM Applications Development: Vector Database & Text Embeddings](https://medium.com/towards-artificial-intelligence/hands-on-langchain-for-llm-applications-development-vector-database-text-embeddings-b8528d83546c?sk=addb2f94cd23891b5ae8708705fa88d9) | [:octocat:]()|
+|[Hands-On LangChain for LLM Applications Development: Information Retrieval](https://medium.com/towards-artificial-intelligence/hands-on-langchain-for-llm-applications-development-information-retrieval-764c3e4d2d44?sk=1496e356ba615f2a425401debb7d236a) | [:octocat:]()|
+|[Hands-On LangChain for LLMs App: Answering Questions From Documents](https://medium.com/gitconnected/hands-on-langchain-for-llms-app-answering-questions-from-documents-01f6741ec7d4?sk=7a1dcfae9fce5aea23313a9a3cf9f64c) | [:octocat:]()|
+|[Hands-On LangChain for LLMs App: Chat with Your Files]() | [:octocat:]()|
+
 
 
 
