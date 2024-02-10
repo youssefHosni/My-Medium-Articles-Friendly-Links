@@ -1,5 +1,5 @@
 # Youssef Hosni Medium Blog Friendly Links
-This repo contains friendly links for my [medium blogs](https://medium.com/@youssefraafat57) so you can read them without restrictions. Also, you can find them categorized with the codes so you can read more about the topics you are interested in.
+This repo contains friendly links for my [medium blogs](https://medium.com/@yousefhosni) so you can read them without restrictions. Also, you can find them categorized with the codes so you can read more about the topics you are interested in.
 
 ![alt_text](https://github.com/youssefHosni/Practical-Data-Science-Blog/blob/main/1667228024233.jpg)
 
