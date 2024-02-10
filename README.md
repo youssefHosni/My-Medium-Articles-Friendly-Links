@@ -28,8 +28,7 @@ This repo contains friendly links for my [medium blogs](https://medium.com/@yous
 
 |Article |Code|
 |-----|--------|
-
-|[Hands-On LangChain for LLMs App: Answering Questions From Documents](https://medium.com/gitconnected/hands-on-langchain-for-llms-app-answering-questions-from-documents-01f6741ec7d4?sk=7a1dcfae9fce5aea23313a9a3cf9f64c)| [:octocat:](https://github.com/youssefHosni/Data-Science-End-to-End-Projects/tree/main/Youtube%20Script%20Writing%20Assistant%20Application%20Using%20LangChain%20%26%20Streamlit)|
+|[Hands-On LangChain for LLMs App: Answering Questions From Documents](https://medium.com/gitconnected/hands-on-langchain-for-llms-app-answering-questions-from-documents-01f6741ec7d4?sk=7a1dcfae9fce5aea23313a9a3cf9f64c) | [:octocat:](https://github.com/youssefHosni/Data-Science-End-to-End-Projects/tree/main/Youtube%20Script%20Writing%20Assistant%20Application%20Using%20LangChain%20%26%20Streamlit)|
 
 
 
