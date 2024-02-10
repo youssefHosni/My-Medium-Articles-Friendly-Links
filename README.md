@@ -24,6 +24,14 @@ This repo contains friendly links for my [medium blogs](https://medium.com/@yous
 |[5 Challenges Come with Building LLM-Based Applications](https://levelup.gitconnected.com/5-challenges-come-with-building-llm-based-applications-5fbf8bca1a66?sk=bf23ad172f6b6b32b545a440380b02a9)||
 |[Vector Database: The Secret Behind Large Language Models Capabilities](https://levelup.gitconnected.com/vector-database-the-secret-behind-large-language-models-capabilities-7d4f6b714d16?sk=64c8c1b742d7a83523bb1781ee4ebf5e)||
 
+## Hands-On LangChain for LLMs App ##
+
+|Article |Code|
+|-----|--------|
+
+|[Hands-On LangChain for LLMs App: Answering Questions From Documents](https://medium.com/gitconnected/hands-on-langchain-for-llms-app-answering-questions-from-documents-01f6741ec7d4?sk=7a1dcfae9fce5aea23313a9a3cf9f64c)| [:octocat:](https://github.com/youssefHosni/Data-Science-End-to-End-Projects/tree/main/Youtube%20Script%20Writing%20Assistant%20Application%20Using%20LangChain%20%26%20Streamlit)|
+
+
 
 ## [Stable Diffusion Crash Coruse](https://medium.com/@youssefraafat57/list/stable-diffusion-crash-coruse-d0146c8eeb4e)
 
