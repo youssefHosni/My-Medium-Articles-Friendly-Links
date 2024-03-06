@@ -34,7 +34,7 @@ This repo contains friendly links for my [medium blogs](https://medium.com/@yous
 |[Hands-On LangChain for LLM Applications Development: Vector Database & Text Embeddings](https://medium.com/towards-artificial-intelligence/hands-on-langchain-for-llm-applications-development-vector-database-text-embeddings-b8528d83546c?sk=addb2f94cd23891b5ae8708705fa88d9) | [:octocat:]()|
 |[Hands-On LangChain for LLM Applications Development: Information Retrieval](https://medium.com/towards-artificial-intelligence/hands-on-langchain-for-llm-applications-development-information-retrieval-764c3e4d2d44?sk=1496e356ba615f2a425401debb7d236a) | [:octocat:]()|
 |[Hands-On LangChain for LLMs App: Answering Questions From Documents](https://medium.com/gitconnected/hands-on-langchain-for-llms-app-answering-questions-from-documents-01f6741ec7d4?sk=7a1dcfae9fce5aea23313a9a3cf9f64c) | [:octocat:]()|
-|[Hands-On LangChain for LLMs App: Chat with Your Files]() | [:octocat:]()|
+|[Hands-On LangChain for LLMs App: Chat with Your Files](https://pub.towardsai.net/hands-on-langchain-for-llms-app-chat-with-your-files-d1636e33a97d?sk=1b0b1eeb8d6a35db563ecac4e9eb8628) | [:octocat:]()|
 
 
 
