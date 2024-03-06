@@ -28,7 +28,6 @@ This repo contains friendly links for my [medium blogs](https://medium.com/@yous
 
 |Article |Code|
 |-----|--------|
-
 |[Hands-On LangChain for LLM Applications Development: Documents Loading](https://open.substack.com/pub/youssefh/p/hands-on-langchain-for-llm-applications?r=1sqbmi&utm_campaign=post&utm_medium=web) | [:octocat:]()|
 |[Hands-On LangChain for LLM Applications Development: Documents Splitting Part 1](https://open.substack.com/pub/youssefh/p/hands-on-langchain-for-llm-applications-2d6?r=1sqbmi&utm_campaign=post&utm_medium=web) | [:octocat:]()|
 |[Hands-On LangChain for LLM Applications Development: Documents Splitting Part 2](https://open.substack.com/pub/youssefh/p/hands-on-langchain-for-llm-applications-96e?r=1sqbmi&utm_campaign=post&utm_medium=web) | [:octocat:]()|
